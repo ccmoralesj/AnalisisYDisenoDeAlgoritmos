@@ -1,4 +1,4 @@
-An-lisis-y-Dise-o-de-Algoritmos
+AnalisisYDisenoDeAlgoritmos
 ===============================
 
 Algoritmos utiles para maratones de programación y algo más
